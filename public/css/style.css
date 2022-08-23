@@ -1,0 +1,11 @@
+body{
+  background-image: -webkit-linear-gradient(45deg,white 50%,black 50%);
+  /* background-color: -webkit-linear-gradient(65deg,#002B5B 50%,#FF87B2 50%); */
+}
+
+.title{
+  color: #6FEDD6;
+}
+.inp{
+  margin: 0 auto;
+}
